@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1360,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Apple latest major company to shun Russia - Reuters.com",
+            "description": "Apple joined Google, Ford, Harley-Davidson and other major companies on Tuesday who stopped sales and distanced themselves from Russia because of the invasion of Ukraine.",
+            "url": "https://www.reuters.com/video/watch/idsYVJ?now=true",
+            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/621eb074e4b085d396fd4c90-1646178420660?location=LANDSCAPE",
+            "publishedAt": "2022-03-02T01:45:20Z",
+            "content": "Posted \r\nApple joined Google, Ford, Harley-Davidson and other major companies on Tuesday who stopped sales and distanced themselves from Russia because of the invasion of Ukraine."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Apple latest major company to shun Russia - Reuters.com",
+            "description": "Apple joined Google, Ford, Harley-Davidson and other major companies on Tuesday who stopped sales and distanced themselves from Russia because of the invasion of Ukraine.",
+            "url": "https://www.reuters.com/video/watch/idRCV00ASP8",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20220301&i=RCV00ASP8&r=RCV00ASP8&t=2",
+            "publishedAt": "2022-03-02T01:45:20Z",
+            "content": "Posted \r\nApple joined Google, Ford, Harley-Davidson and other major companies on Tuesday who stopped sales and distanced themselves from Russia because of the invasion of Ukraine."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Apple latest major company to shun Russia - Reuters.com",
+            "description": "Apple joined Google, Ford, Harley-Davidson and other major companies on Tuesday who stopped sales and distanced themselves from Russia because of the invasion of Ukraine. Lisa Bernhard produced this report.",
+            "url": "https://www.reuters.com/video/watch/idOV132701032022RP1",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20220302&i=OV132701032022RP1&r=OV132701032022RP1&t=2",
+            "publishedAt": "2022-03-02T01:49:14Z",
+            "content": "Posted \r\nApple joined Google, Ford, Harley-Davidson and other major companies on Tuesday who stopped sales and distanced themselves from Russia because of the invasion of Ukraine. Lisa Bernhard produ… [+15 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "EXCLUSIVE Google blocks RT, Sputnik from Play app store in Europe - Reuters",
+            "description": "Alphabet Inc's <a href=\"https://www.reuters.com/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> Google said on Tuesday that it has blocked mobile apps connected to RT and Sputnik from its Play store, in line with an earlier move to remove the Russian state p…",
+            "url": "https://www.reuters.com/technology/exclusive-google-blocks-rt-sputnik-play-app-store-europe-2022-03-02/",
+            "urlToImage": "https://www.reuters.com/resizer/DDWW_bdLkB0yfqHzVvW9h-6lRbQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZWCFBKBXCVMONOCLUI3QBZZENE.jpg",
+            "publishedAt": "2022-03-02T05:52:00Z",
+            "content": "March 1 (Reuters) - Alphabet Inc's (GOOGL.O) Google said on Tuesday that it has blocked mobile apps connected to RT and Sputnik from its Play store, in line with an earlier move to remove the Russian… [+915 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Asia Fuel Oil VLSFO cash premiums jump to near 3-month high amid limited supplies - Reuters",
+            "description": "Asia's cash premiums for 0.5% very low-sulphur fuel oil (VLSFO) climbed for a fifth straight session on Wednesday, lifted by active buying interest for physical cargoes amid limited supplies.",
+            "url": "https://www.reuters.com/markets/asia/asia-fuel-oil-vlsfo-cash-premiums-jump-near-3-month-high-amid-limited-supplies-2022-03-02/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=77",
+            "publishedAt": "2022-03-02T11:15:00Z",
+            "content": "SINGAPORE, March 2 (Reuters) - Asia's cash premiums for 0.5% very low-sulphur fuel oil (VLSFO) climbed for a fifth straight session on Wednesday, lifted by active buying interest for physical cargoes… [+2713 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Futures make tentative gains ahead of Powell testimony - Reuters",
+            "description": "U.S. stock index futures notched cautious gains on Wednesday, ahead of Federal Reserve Chair Jerome Powell's testimony for clues on interest rates as the Ukraine crisis exacerbates concerns about inflation and growth.",
+            "url": "https://www.reuters.com/business/futures-make-tentative-gains-ahead-powell-testimony-2022-03-02/",
+            "urlToImage": "https://www.reuters.com/resizer/B80RmRgMYLvnV_b7RsKBkf08SCI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XBRDGLOTD5MSZP6SD5YUND2MIY.jpg",
+            "publishedAt": "2022-03-02T12:16:00Z",
+            "content": "March 2 (Reuters) - U.S. stock index futures notched cautious gains on Wednesday, ahead of Federal Reserve Chair Jerome Powell's testimony for clues on interest rates as the Ukraine crisis exacerbate… [+2881 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "EXCLUSIVE Ford set to announce plans to run EV, ICE as separate businesses -sources - Reuters",
+            "description": "Ford Motor Co <a href=\"https://www.reuters.com/companies/F.N\" target=\"_blank\">(F.N)</a> on Wednesday will announce a reorganization under which its electric vehicle (EV) and internal-combustion engine (ICE) units will be run as separate businesses in a move t…",
+            "url": "https://www.reuters.com/business/autos-transportation/exclusive-ford-set-announce-plans-run-ev-ice-separate-businesses-sources-2022-03-02/",
+            "urlToImage": "https://www.reuters.com/resizer/XWxONpPnNXwwgQJXwnYpfsuMo4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UOEJLWS3WJOCJEWGXQXT3XNQL4.jpg",
+            "publishedAt": "2022-03-02T00:21:00Z",
+            "content": "March 1 (Reuters) - Ford Motor Co (F.N) on Wednesday will announce a reorganization under which its electric vehicle (EV) and internal-combustion engine (ICE) units will be run as separate businesses… [+3388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Martin Farrer",
+            "title": "Ukraine: what we know on day seven of Russia’s invasion",
+            "description": "Several cities are under heavy bombardment again and several are encircled, according to the UK, as Joe Biden attacks Putin in his State of the Union addressKyiv and other cities in Ukraine are coming under more bombardment in the early hours of Wednesday mor…",
+            "url": "https://amp.theguardian.com/world/2022/mar/02/ukraine-russia-invasion-war-what-we-know-on-day-seven",
+            "urlToImage": "https://i.guim.co.uk/img/media/6d15f614e6ed9d17aebdcb7d55cac5a212eab79a/160_0_2400_1440/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=137a3a785979b8676b509197be36a3a2",
+            "publishedAt": "2022-03-02T01:08:41Z",
+            "content": "<li>Kyiv and other cities in Ukraine are coming under more bombardment in the early hours of Wednesday morning as the Russian military steps up its offensive and moves forces closer towards the capit… [+2625 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Kendra Wilson",
+            "title": "How to cultivate wellbeing through gardening",
+            "description": "Gardening is proven to help mental health and is prescribed by the NHS. The author of a new book about its appeal to the senses says we get as much out of nurturing plants as we put inHow do you make use of the space around your house? Is it a cheery welcome …",
+            "url": "https://amp.theguardian.com/lifeandstyle/2022/mar/02/how-to-cultivate-wellbeing-through-gardening",
+            "urlToImage": "https://i.guim.co.uk/img/media/1d20b23c870f0aea46e1ad2bb6f2ac91ae3e1086/0_191_5719_3432/master/5719.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=e5a722a81efddcd2a6848c4075449fe3",
+            "publishedAt": "2022-03-02T12:00:38Z",
+            "content": "How do you make use of the space around your house? Is it a cheery welcome for visitors, a showcase of the seasons and the delights of the natural world? Or, more likely, is it a place for bins and c… [+6815 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Arcade Gaining 'Alto's Adventure: The Spirit of the Mountain' Game",
+            "description": "Endless snowboarding game \"Alto's Adventure\" is set to expand to Apple Arcade this month, with Apple launching \"Alto's Adventure: The Spirit of the Mountain.\" The ‌Apple Arcade‌ exclusive title is a remastered version of the original \"Alto's Adventure,\" but w…",
+            "url": "https://www.macrumors.com/2022/03/01/apple-arcade-altos-adventure/",
+            "urlToImage": "https://images.macrumors.com/t/lTIJLFyGpOJllP98hiN3wM8nzIU=/2048x/article-new/2022/03/altos-adventure.jpg",
+            "publishedAt": "2022-03-02T00:24:34Z",
+            "content": "Endless snowboarding game \"Alto's Adventure\" is set to expand to Apple Arcade this month, with Apple launching \"Alto's Adventure: The Spirit of the Mountain.\" The ‌Apple Arcade‌ exclusive title is a … [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "Web Developers Form Advocacy Group to Allow Other Browser Engines on iOS",
+            "description": "Apple is being challenged by a group of developers to end WebKit's dominance on its mobile devices and allow other browser engines on iPhone and iPad, following accusations that the current situation amounts to anti-competitive conduct.\n\n\n\n\n\nFor those unfamil…",
+            "url": "https://www.macrumors.com/2022/03/02/web-devs-advocacy-group-browser-engines-ios/",
+            "urlToImage": "https://images.macrumors.com/t/5LfZ17zq4tJNGppyuMtZveEXv54=/1600x/article-new/2022/01/safari-icon-blue-banner.jpeg",
+            "publishedAt": "2022-03-02T12:29:32Z",
+            "content": "Apple is being challenged by a group of developers to end WebKit's dominance on its mobile devices and allow other browser engines on iPhone and iPad, following accusations that the current situation… [+2611 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "YouTuber Modifies M1 Mac Mini to Be 78% Smaller",
+            "description": "A YouTuber has successfully made the M1 Mac mini 78% smaller and added MagSafe in a unique DIY project, highlighting Apple's iterative approach to the current entry-level ‌Mac mini‌ ahead of the expected launch of a redesigned high-end model.\n\n\n\n\n\nWhen Apple …",
+            "url": "https://www.macrumors.com/2022/03/02/youtuber-modifies-m1-mac-mini-to-be-78-smaller/",
+            "urlToImage": "https://images.macrumors.com/t/NUrnC1ZwfIqJgpidI9ZeSNqsM3M=/1600x/article-new/2022/03/mac-mini-quinn-nelson.jpg",
+            "publishedAt": "2022-03-02T13:06:41Z",
+            "content": "A YouTuber has successfully made the M1Mac mini 78% smaller and added MagSafe in a unique DIY project, highlighting Apple's iterative approach to the current entry-level ‌Mac mini‌ ahead of the expec… [+3172 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Insider Inc.)",
+            "title": "10 Things in Tech: Apple deals blow to Russia",
+            "description": "In today's edition: Apple just halted all product sales in Russia, and we have a look at Jeep's first fully electric SUV.",
+            "url": "https://www.businessinsider.com/10-things-in-tech-apple-deals-blow-to-russia-2022-3",
+            "urlToImage": "https://i.insider.com/621ea9dc96929400196c2b25?width=1200&format=jpeg",
+            "publishedAt": "2022-03-02T11:00:00Z",
+            "content": "Hello again. Apple just halted all product sales in Russia, and we have a look at Jeep's first fully electric SUV.\r\nCheck out our new audio product: The Refresh from Insider! Keep up with the day's l… [+3439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketBeat"
+            },
+            "author": "Melissa Brock",
+            "title": "A Member of the Silent Majority? 4 Best Politically Conservative ETFs",
+            "description": "Amid all the ESG investment options, where are the investments for political conservatives? Great question. Here are four ETF options.",
+            "url": "https://www.marketbeat.com/originals/a-member-of-the-silent-majority-4-best-politically-conservative-etfs/?utm_source=entrepreneurcom&amp;amp;utm_medium=entrepreneurcom",
+            "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-421161.jpeg",
+            "publishedAt": "2022-03-02T09:00:00Z",
+            "content": "Usually, politics and stock picking doesn't brew a pot of political turmoil to the same degree as budget negotiations in a joint session of Congress. However, some companies' focus on wokeness and ot… [+6835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "El Recomendador",
+            "title": "La mejor batería externa con MagSafe para el iPhone tiene hoy un precio rompedor",
+            "description": "Anker lleva un tiempo poniendo en el mercado productos muy interesantes a precios reducidos. Uno de los más recientes es la batería especial compatible con MagSafe, que ya analizamos en Hipertextual y que desde luego nos encantó. Es, de hecho, la mejor baterí…",
+            "url": "https://hipertextual.com/2022/03/oferta-de-la-mejor-bateria-externa-para-el-iphone",
+            "urlToImage": "https://hipertextual.com/wp-content/uploads/2021/09/Batería-MagSafe-Anker-1-scaled.jpg",
+            "publishedAt": "2022-03-02T09:43:44Z",
+            "content": "Anker lleva un tiempo poniendo en el mercado productos muy interesantes a precios reducidos. Uno de los más recientes es la batería especial compatible con MagSafe, que ya analizamos en Hipertextualy… [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ivan Mehta",
+            "title": "Asus’ Zenfone 8z is a ray of hope for fans of compact phones",
+            "description": "We might not see an iPhone mini this year — and that’s a big blow to fans of compact form factors in phones. Luckily though, we don’t have to give up all hope for ‘mini’ models as Asus has FINALLY launched the Zenfone 8z (Zenfone 8 in global markets) in India…",
+            "url": "https://thenextweb.com/news/asus-zenfone-8z-compact-phone-review",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FAsus-Zenfone-8.jpg&signature=9f8b76ff116730b5a7ff92c15c5950b7",
+            "publishedAt": "2022-03-02T08:14:19Z",
+            "content": "We might not see an iPhone mini this year and thats a big blow to fans of compact form factors in phones.Luckily though, we dont have to give up all hope for mini models as Asus has FINALLY launched … [+6446 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Le Monde",
+            "title": "Guerre en Ukraine, en direct : l’armée russe affirme avoir conquis Kherson, dans le sud du pays ; Kiev toujours menacée",
+            "description": "Cette ville de près de 300 000 habitants, située à une centaine de kilomètres au nord de la Crimée, faisait l’objet de vifs combats depuis le début de l’invasion russe, le 24 février.",
+            "url": "https://www.lemonde.fr/international/live/2022/03/02/guerre-en-ukraine-en-direct-l-armee-russe-affirme-avoir-conquis-kherson-dans-le-sud-du-pays-kiev-toujours-menacee_6115764_3210.html",
+            "urlToImage": "https://img.lemde.fr/2022/03/02/626/3/3496/1748/1440/720/60/0/9b3b92a_1646210439206-482768.jpg",
+            "publishedAt": "2022-03-02T04:01:11Z",
+            "content": "Apple a officialisé, dans la nuit, une série de mesures particulièrement strictes contre la Russie, notamment la suspension de la vente de tous ses produits (iPhone, Mac, iPad) dans le pays. Lentrepr… [+1435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Frank Schräer",
+            "title": "Mittwoch: Meta-Zensur russischer Medien, Apples Verkaufsstopp in Russland",
+            "description": "Meta gegen russische Medien + Russland ohne Apple + Datenleck bei Hackern + Protest gegen Predictive Policing + Park-Urteil umstritten + Störung bei Windrädern",
+            "url": "https://www.heise.de/news/Mittwoch-Meta-Zensur-russischer-Medien-Apples-Verkaufsstopp-in-Russland-6530839.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/5/2/9/4/7/mittwoch-af82de28390f5821.webp",
+            "publishedAt": "2022-03-02T05:30:00Z",
+            "content": "Meta will verhindern, dass sich russische Propaganda bei Facebook und Instagram verbreitet. Deshalb werden staatlich kontrollierte Medien herabgestuft, um entsprechende Beiträge deutlich zu reduziere… [+4403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Sebastian Trepesch",
+            "title": "heise+ | Spitzentechnik beherrschen: Tipps zur Kamera in iPhone 13 und iOS 15",
+            "description": "Mit den aktuellen iPhones und dem neuen iOS hat Apple die Kameras verbessert und viele neue Foto- und Videofunktionen eingeführt. Doch wie verwendet man sie?",
+            "url": "https://www.heise.de/ratgeber/Spitzentechnik-beherrschen-Tipps-zur-Kamera-im-iPhone-13-6523208.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/4/7/6/1/5/mi_22_01_tre_kameratipps_aufmacher_nadelbaum_digital-8a71b7284032aa76.jpg",
+            "publishedAt": "2022-03-02T06:30:00Z",
+            "content": "Inhaltsverzeichnis\r\niPhone 13, 13 Pro, 13 mini und 13 Pro Max bringen zusammen mit iOS 15 jede Menge spannende Kamera-Funktionen. Wir haben zahlreiche Tipps und Tricks zusammengetragen, wie Sie die n… [+2787 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Web developers challenge Apple to allow other browser engines on iOS",
+            "description": "Apple has been facing multiple accusations of anti-competitive practices in recent years, and it seems that there’s more to come. This time, a group of developers has launched a project called “Open Web Advocacy” that challenges Apple to allow other browser e…",
+            "url": "https://9to5mac.com/2022/03/01/web-developers-challenge-apple-to-allow-other-browser-engines-on-ios/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/change-ios-15-safari-address-search-bar-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-03-02T03:46:12Z",
+            "content": "Apple has been facing multiple accusations of anti-competitive practices in recent years, and it seems that there’s more to come. This time, a group of developers has launched a project called “Open … [+2557 chars]"
+        }
+    ]
+}
